@@ -1,0 +1,41 @@
+.header{
+      position: absolute;
+      top:0px;
+
+    background-color: antiquewhite;
+
+    height: 100px;
+    width: 100%;
+
+    color: white;
+    font-size: 70px;
+    padding-left:30%;
+  
+}
+
+.circle{
+
+    border-radius: 50%;
+
+    background-color: aqua;
+
+    height: 50px;
+    width:50px;
+}
+
+.footer{
+
+    position: absolute;
+    bottom:0px;
+
+  background-color: antiquewhite;
+
+  height: 100px;
+  width: 100%;
+
+  color: white;
+  font-size: 70px;
+  padding-left:30%;
+}
+
+
